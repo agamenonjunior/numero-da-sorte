@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+.fundo{
+background-color: springgreen;
+}
+.numeros{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 2.0em;
+ font-weight: bold;
+ text-decoration: none;
+ 
+}

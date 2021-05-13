@@ -12,7 +12,7 @@ Certifique-se de ter o seguinte instalado em sua máquina de desenvolvimento:
 - Servidor apache
 
 # imagens :
-[img]https://i.imgur.com/hR1qOr1.png[/img]
+![alt text](https://i.imgur.com/hR1qOr1.png)
 
 
 

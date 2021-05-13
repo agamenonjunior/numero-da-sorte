@@ -11,6 +11,8 @@ Certifique-se de ter o seguinte instalado em sua máquina de desenvolvimento:
 - bootstrap == 4.3.1
 - Servidor apache
 
+# imagens :
+https://imgur.com/hR1qOr1
 
 
 
